@@ -62,5 +62,8 @@
 		"@router": "router",
 		"@helpers": "helpers",
 		"@generics": "generics"
+	},
+	"engines": {
+		"node": ">=24 <25"
 	}
 }
